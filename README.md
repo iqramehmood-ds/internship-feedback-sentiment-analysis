@@ -40,7 +40,8 @@ By source:
 | Comment | 3 | 2 | 5 |
 | Social Media | 3 | 3 | 4 |
 
-![Sentiment charts](sentiment_charts.png)
+<img width="887" height="462" alt="image" src="https://github.com/user-attachments/assets/ab62c326-35fb-453b-b270-212c76016aba" />
+
 
 In this sample, survey comments were the most positive and the other two sources were more mixed. The negative comments mostly talked about unclear task instructions, missing datasets and a lack of mentor support. I wrote these comments myself, so this only shows what the analysis can find. It is not a real conclusion about any internship.
 
