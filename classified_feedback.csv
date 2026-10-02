@@ -1,0 +1,31 @@
+source,feedback,clean_feedback,compound,sentiment
+Survey,The mentors were very supportive and always answered my questions.,The mentors were very supportive and always answered my questions.,0.3597,Positive
+Survey,I learned a lot and enjoyed working with Python and data cleaning.,I learned a lot and enjoyed working with Python and data cleaning.,0.5106,Positive
+Survey,Tasks were interesting and helped me build real skills.,Tasks were interesting and helped me build real skills.,0.4019,Positive
+Survey,The task instructions were unclear and no dataset was provided.,The task instructions were unclear and no dataset was provided.,-0.4939,Negative
+Survey,Communication was slow and I waited days for a reply.,Communication was slow and I waited days for a reply.,0.0,Neutral
+Survey,"It was okay, some tasks were average.","It was okay, some tasks were average.",0.2263,Positive
+Survey,The internship portal was easy to use.,The internship portal was easy to use.,0.4404,Positive
+Survey,The workload was manageable and the tasks were well planned.,The workload was manageable and the tasks were well planned.,0.2732,Positive
+Survey,"Great experience, I would recommend it to other students.","Great experience, I would recommend it to other students.",0.765,Positive
+Survey,The deadlines were fine and the weekly tasks were clear.,The deadlines were fine and the weekly tasks were clear.,0.5267,Positive
+Comment,"Loved the machine learning task, it was challenging and fun.","Loved the machine learning task, it was challenging and fun.",0.8316,Positive
+Comment,Not enough guidance for beginners.,Not enough guidance for beginners.,0.0,Neutral
+Comment,Task 4 was confusing and the fraud detection data was not given.,Task 4 was confusing and the fraud detection data was not given.,-0.6908,Negative
+Comment,The certificate and the experience are valuable for my CV.,The certificate and the experience are valuable for my CV.,0.4767,Positive
+Comment,"Average internship, nothing special.","Average internship, nothing special.",-0.3089,Negative
+Comment,Support team never replied and I was very disappointed.,Support team never replied and I was very disappointed.,-0.1761,Negative
+Comment,Very well organized program with clear weekly tasks.,Very well organized program with clear weekly tasks.,0.6115,Positive
+Comment,I submitted all tasks on time.,I submitted all tasks on time.,0.0,Neutral
+Comment,The video task was confusing and a waste of time.,The video task was confusing and a waste of time.,-0.5719,Negative
+Comment,Disappointed that there was no mentor session.,Disappointed that there was no mentor session.,-0.6486,Negative
+Social Media,"Just finished my data analytics internship, so proud of what I built!","Just finished my data analytics internship, so proud of what I built!",0.6466,Positive
+Social Media,"Learning pandas and sklearn through this internship, highly useful.","Learning pandas and sklearn through this internship, highly useful.",0.4927,Positive
+Social Media,Honestly the worst communication I have seen from an internship.,Honestly the worst communication I have seen from an internship.,-0.2732,Negative
+Social Media,"Internship tasks are going on, week 3 now.","Internship tasks are going on, week 3 now.",0.0,Neutral
+Social Media,Amazing opportunity for students to practice real projects.,Amazing opportunity for students to practice real projects.,0.765,Positive
+Social Media,"Waste of time, tasks have no proper explanation.","Waste of time, tasks have no proper explanation.",-0.6124,Negative
+Social Media,The platform kept crashing and I lost my work.,The platform kept crashing and I lost my work.,-0.3182,Negative
+Social Media,Waiting for the next task update.,Waiting for the next task update.,0.0,Neutral
+Social Media,Submitted my work today. Waiting for review.,Submitted my work today. Waiting for review.,0.0,Neutral
+Social Media,Terrible experience with the submission portal.,Terrible experience with the submission portal.,-0.4767,Negative
